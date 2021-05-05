@@ -1,6 +1,33 @@
 nav{
-    position: fixed;
+    
     width: 100%;
+    position: relative;
     background-color: violet;
 }
+
+.Forms{
+    width: 100%; 
+    position: relative;
+    margin-top: 20px;
+}
+
+form{
+  width  : 50%;
+  margin : 0 auto;
+  background: url('../images/Header_fondo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  
+}
+
+form label{
+    color:white;
+    padding: 20px; 
+}
+
+form input{
+    margin-bottom: 10px;
+}
+
 
